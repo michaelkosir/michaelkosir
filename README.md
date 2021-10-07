@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelkosir
 - 👀 I’m interested in Threat Intelligence, Threat Hunting, Infrastructure/Network/Security/Application/Configuration Automation
 
-<br><br>
+<br>
 
 <div align="center">
 <a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/0f58ce32-8617-4b47-a4c0-c4c2efbe35ff/Vault-CHIP.png"></a>

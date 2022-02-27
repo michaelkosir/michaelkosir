@@ -12,6 +12,6 @@
 <a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png"></a>
 <a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/05e9f377-8b2a-40bb-9c1e-bb51695e9f91/giac_advisory_board-badge.png"></a>
 <a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/897a2ab6-a662-47fd-a4b0-5391a0c4c477/Template_GSEC.png"></a>
-<a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/6ab1b3f6-1718-42bc-bf37-7592626d7a0d/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Phantom-Certified-Admin.png">
+<a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/6b2af3f6-1db7-4ed4-8560-fa7b26e2ec01/Splunk-SOAR-Certified-Automation-Developer.png">
 </a>
 </div>

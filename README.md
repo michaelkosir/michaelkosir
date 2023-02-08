@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/05e9f377-8b2a-40bb-9c1e-bb51695e9f91/giac_advisory_board-badge.png"></a>
-<a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/897a2ab6-a662-47fd-a4b0-5391a0c4c477/Template_GSEC.png"></a>
+<a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png"></a>
+<a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png"></a>
 <a href="https://www.credly.com/users/michael-kosir"><img height=110 src="https://images.credly.com/size/680x680/images/6b2af3f6-1db7-4ed4-8560-fa7b26e2ec01/Splunk-SOAR-Certified-Automation-Developer.png"></a>
 </div>
